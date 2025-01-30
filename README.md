@@ -3,4 +3,4 @@ A collection of projects showcasing my work in AI, Machine Learning, Cloud Compu
 
 ### 📌 Explainable AI for Medical Imaging  
 **Description:** Implemented Grad-CAM for pneumonia diagnosis using deep learning.  
-**Tech Stack:** Python, TensorFlow, Keras, OpenCV, Matplotlib
+**Tech Stack:** Python, TensorFlow, Keras, NumPy, Matplotlib, Pandas
