@@ -1,0 +1,8 @@
+[ 2025-02-05 01:51:51,145 ] 22 root - INFO - Intiating the Data Ingestion
+[ 2025-02-05 01:51:51,203 ] 26 root - INFO -   -Read the Dataset as Dataframe
+[ 2025-02-05 01:51:51,361 ] 33 root - INFO -   -Train Test Split Initiated
+[ 2025-02-05 01:51:51,528 ] 39 root - INFO -   -Ingestion is Completed
+[ 2025-02-05 01:51:51,593 ] 72 root - INFO - Read train and test dataset
+[ 2025-02-05 01:51:51,593 ] 74 root - INFO - Preprocessing is Started
+[ 2025-02-05 01:51:51,593 ] 51 root - INFO - Categorical Columns:['Gender', 'Subscription Type', 'Contract Length']
+[ 2025-02-05 01:51:51,593 ] 52 root - INFO - Numercial Columns:['CustomerID', 'Age', 'Tenure', 'Usage Frequency', 'Support Calls', 'Payment Delay', 'Total Spend', 'Last Interaction', 'Avg_Spend_Per_Month', 'Support_Call_Rate', 'Payment_Delay_Rate']

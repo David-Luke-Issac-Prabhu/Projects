@@ -1,0 +1,12 @@
+Metadata-Version: 2.2
+Name: ML-Project
+Version: 0.0.1
+Author: DavidLuke
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: dill
+Requires-Dist: category_encoders
+Dynamic: author
+Dynamic: requires-dist

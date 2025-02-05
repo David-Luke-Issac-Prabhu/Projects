@@ -1,0 +1,11 @@
+[ 2025-02-05 22:03:20,599 ] 23 root - INFO - Intiating the Data Ingestion
+[ 2025-02-05 22:03:20,670 ] 27 root - INFO -   -Read the Dataset as Dataframe
+[ 2025-02-05 22:03:20,838 ] 34 root - INFO -   -Train Test Split Initiated
+[ 2025-02-05 22:03:21,031 ] 40 root - INFO -   -Ingestion is Completed
+[ 2025-02-05 22:03:21,095 ] 71 root - INFO - Read train and test dataset
+[ 2025-02-05 22:03:21,095 ] 73 root - INFO - Preprocessing is Started
+[ 2025-02-05 22:03:21,095 ] 50 root - INFO - Categorical Columns:['Gender', 'Subscription Type', 'Contract Length']
+[ 2025-02-05 22:03:21,095 ] 51 root - INFO - Numercial Columns:['CustomerID', 'Age', 'Tenure', 'Usage Frequency', 'Support Calls', 'Payment Delay', 'Total Spend', 'Last Interaction', 'Avg_Spend_Per_Month', 'Support_Call_Rate', 'Payment_Delay_Rate']
+[ 2025-02-05 22:03:21,178 ] 101 root - INFO - Saved preprocessing
+[ 2025-02-05 22:03:21,178 ] 24 root - INFO - Split training and test input data
+[ 2025-02-05 22:04:22,820 ] 53 root - INFO - Best Model Found on both Train and Test Dataset
